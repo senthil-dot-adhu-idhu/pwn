@@ -80,6 +80,4 @@ p.sendline(b'YELLOW SUBMARINE!!')
 p.recv()
 p.sendline(b'flag{I_am_Sm0r7!_Y0u_c4n7_b347_m3!!}')
 
-# for i in ran
 p.interactive()
-# p.recv()
